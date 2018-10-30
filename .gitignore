@@ -1,0 +1,10 @@
+.buildpath
+.project
+.kdev4/
+composer.lock
+pvs.kdev4
+symfony.lock
+/bin
+/nbproject
+/var/
+/vendor/
